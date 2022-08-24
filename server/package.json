@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chart.js": "^3.8.0",
+    "moment": "^2.29.4",
+    "passport": "^0.6.0",
+    "passport-azure-ad": "^4.3.4",
+    "react-bar-chart": "^0.1.2",
+    "react-chartjs-2": "^4.2.0",
+    "recharts": "^2.1.12",
+    "socket.io": "^4.5.1"
+  }
+}
